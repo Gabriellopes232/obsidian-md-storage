@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "a138e89621a0341a",
+    "type": "split",
+    "children": [
+      {
+        "id": "709d6718c17668ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e96613136c6880cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guias de estudos/Livros/o-programador-pragmatico-de-aprendiz-a-mestre (1).pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "23bdc4f4fb642399",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0054315232a593cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9962e1c8081d7ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6720844d8f84c6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bb6c168637442e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cb6f5a13e538f61",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb2e6ea758b13476",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90110e86d703072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31311551bcef3bba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a83b1446db48dad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa0d16615fa84777",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8760298a994c5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a6720844d8f84c6b",
+  "lastOpenFiles": [
+    "Guias de estudos/Livros/o-programador-pragmatico-de-aprendiz-a-mestre (1).pdf",
+    "Guias de estudos/Livros/O que eu estou achando do livro?.md",
+    "Arquitetura/Clean Architecture.md",
+    "Arquitetura/Domain-Driven Design (DDD).md",
+    "Arquitetura/Design pattern/Visão geral sobre o assunto e alguns exemplos.md",
+    "Bases da Programação/Estruturas de Dados.md",
+    "Guias de estudos/RoadMaps/backend.pdf",
+    "Livros/o-programador-pragmatico-de-aprendiz-a-mestre.pdf",
+    "Livros/o-programador-pragmático.pdf",
+    "Bases da Programação/Programação assíncrona.md"
+  ]
+}

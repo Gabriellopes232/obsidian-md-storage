@@ -1,0 +1,3 @@
+Programação assíncrona é um paradigma de programação que permite que o programa continue a executar tarefas enquanto aguarda uma resposta de uma tarefa anterior. Em vez de bloquear a execução até que uma tarefa seja concluída, a tarefa é definida e o programa continua a executar outras tarefas. Quando a tarefa é concluída, o resultado é geralmente notificado através de uma callback ou uma promessa. Isso permite que o programa execute várias tarefas de maneira eficiente, sem interromper ou bloquear a execução. A programação assíncrona é comumente usada em aplicações web, especialmente quando se trata de lidar com operações de entrada/saída (I/O), como solicitações de rede ou operações de banco de dados.
+
+![[Pasted image 20230204120434.png]]
